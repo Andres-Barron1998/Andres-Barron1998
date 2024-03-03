@@ -1,7 +1,12 @@
-### Hi there 👋
+<h1>Hi, I'm Andres! <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Analyst</a>
+
+<h2>👨‍💻Cybersecurity Projects:</h2>
+
+- <b>Practicing applying filters to a databse using SQL</b>
+
 
 <!--
-**Andres-Barron1998/Andres-Barron1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
